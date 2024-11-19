@@ -2,7 +2,7 @@
 
 Welcome to the **Moroccan Restaurant** website! 🇲🇦 This site brings the authentic taste and atmosphere of Morocco to life.
 ## 🍴 About the Project:
-This project showcases a stunning website for a Moroccan restaurant located at the heart of **Almadina**. The website is designed to evoke the cozy, candle-lit atmosphere of a Moroccan courtyard with caramel-colored walls, local music, and a tranquil central fountain.
+This project showcases a stunning website for a Moroccan restaurant located at the heart of **Almadina**. The website is designed to evoke the cozy.
 
 
 ### 🏠 Features:
