@@ -24,7 +24,13 @@ This project showcases a stunning website for a Moroccan restaurant located at t
 - **Authentic Dining Experience** 🕯️
 
 ## 🎥 Screenshots:
-Here is a sample output of the system health checker:
-![System Health Plot](screen1.jpg)
+Below is a sample view of how the restaurant’s website is shown to visitors :
+![restaurant ](screen1.jpg)
+![restaurant](screen2.jpg)
+![restaurant](screen3.jpg)
+![restaurant](screen4.jpg)
+![restaurant](screen5.jpg)
+![restaurant](screen6.jpg)
+
 ## 📬 Contact:
 If you have any questions or suggestions, feel free to reach out to me via email or open an issue here on GitHub!
