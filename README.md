@@ -32,5 +32,3 @@ Below is a sample view of how the restaurant’s website is shown to visitors :
 ![restaurant](screen5.jpg)
 ![restaurant](screen6.jpg)
 
-## 📬 Contact:
-If you have any questions or suggestions, feel free to reach out to me via email or open an issue here on GitHub!
